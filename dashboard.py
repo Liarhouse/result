@@ -149,3 +149,4 @@ def result():
                             wrong_point = wrong_point, remember_point = remember_point, stt_point = stt_point, guest=guest)    
 
 #hi
+#thxDH
